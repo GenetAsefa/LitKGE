@@ -1,3 +1,4 @@
+##use this code to generate numerical features
 from argparse import ArgumentParser
 import numpy as np
 import pandas as pd

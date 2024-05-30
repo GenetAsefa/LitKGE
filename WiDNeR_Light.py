@@ -1,3 +1,4 @@
+##use this code to generate relation-relation network
 from argparse import ArgumentParser
 import numpy as np
 import pandas as pd
